@@ -24,6 +24,10 @@
                    class="navbar-item {{ Request::route()->getName() === 'groups.index' ? "is-active" : "" }}">
                     Groups
                 </a>
+                <a href="students"
+                   class="navbar-item {{ Request::route()->getName() === 'students' ? "is-active" : "" }}">
+                    students
+                </a>
             </div>
         </div>
     </div>

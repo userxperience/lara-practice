@@ -96,6 +96,7 @@ $ php artisan db:seed
 ## Authors
 
 * **Daan de Waard** - *Initial work* - [dwaard](https://github.com/dwaard)
+* **Tijn Visser** - *Exam work* - [userxperience](https://github.com/userxperience)
 
 See also the list of [contributors](url-to-project-contributors-page) who 
 participated in this project.
